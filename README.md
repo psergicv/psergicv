@@ -7,7 +7,7 @@ I am a Python developer and a Data Specialist based in Republic of Moldova. At t
 
 
 
-- 🔭 I’m currently working on creating and maintain parsers.
+- 🔭 I’m currently working on creating and maintaining parsers.
 - 🌱 I’m currently learning Flask & Django Framework
 - 💬 Ask me about parsers created in Python
 - 📫 How to reach me: sv.postolachi [at] gmail [dot] com
