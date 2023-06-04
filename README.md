@@ -3,7 +3,8 @@
 I am a Python developer and a Data Specialist based in Republic of Moldova. At the moment I am mostly working on creating a lot of parsers that are getting metadata from different TV broadcasters, but sometimes I am also working on some web development. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psergicv&show_icons=true&theme=radical) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psergicv)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
