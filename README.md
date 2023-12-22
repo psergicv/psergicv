@@ -14,4 +14,4 @@ I am a Python developer and a Data Specialist based in Republic of Moldova. At t
 - 😄 Pronouns: he/him
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
-- ⚡ TOP Languages: Python, Javascript, Go
+- ⚡ TOP Languages: Python, Java, Javascript
