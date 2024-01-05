@@ -8,7 +8,7 @@ I am a Python developer and a Data Specialist based in Republic of Moldova. At t
 
 
 - 🔭 I’m currently working on creating and maintaining parsers.
-- 🌱 I’m currently learning Golang Programming Language
+- 🌱 I’m currently learning Java Programming Language
 - 💬 Ask me about everything in Python
 - 📫 How to reach me: sv.postolachi [at] gmail [dot] com
 - 😄 Pronouns: he/him
